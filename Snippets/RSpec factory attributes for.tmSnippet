@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Factory.attributes_for(:$0) </string>
 	<key>name</key>
-	<string>RSpec factory attributes for</string>
+	<string>Factory Girl factory attributes for</string>
 	<key>scope</key>
 	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>

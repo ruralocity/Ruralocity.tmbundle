@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Factory.build(:$0) </string>
 	<key>name</key>
-	<string>RSpec factory build</string>
+	<string>Factory Girl factory build</string>
 	<key>scope</key>
 	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
