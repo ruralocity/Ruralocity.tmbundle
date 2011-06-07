@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>before_filter :authenticate_${0:user}!
+load_and_authorize_resource
+
+</string>
+	<key>name</key>
+	<string>Devise and CanCan before filters</string>
+	<key>scope</key>
+	<string>source.ruby.rails meta.rails.controller</string>
+	<key>tabTrigger</key>
+	<string>auth</string>
+	<key>uuid</key>
+	<string>59B9C473-2E9D-4359-94C5-8010BA0575DA</string>
+</dict>
+</plist>

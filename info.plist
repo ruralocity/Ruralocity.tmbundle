@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Ruralocity</string>
+	<key>ordering</key>
+	<array>
+		<string>53C4D8F8-A845-443C-8F24-BE0C0143A161</string>
+		<string>F30E5D9A-FE65-4478-B53B-E4198016B41E</string>
+		<string>59B9C473-2E9D-4359-94C5-8010BA0575DA</string>
+		<string>BD989B83-9DCF-484D-8D62-FBD446A25CC3</string>
+		<string>0EF7DA95-9247-42D7-BFA6-A07D613CE390</string>
+		<string>8A4FE595-4926-4B10-9786-010E79F0A672</string>
+		<string>87AAC746-FF40-4CEC-A188-79B7641EF521</string>
+		<string>FEF345CF-50BB-4DDC-8332-C9E1AA3861F5</string>
+		<string>8FE4C480-0DD8-4E8C-B96D-E671401C5558</string>
+	</array>
+	<key>uuid</key>
+	<string>DAEF8BF9-9DF0-4528-BD0C-80968A4ECC1C</string>
+</dict>
+</plist>

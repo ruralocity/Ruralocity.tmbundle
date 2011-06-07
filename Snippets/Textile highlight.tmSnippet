@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% highlight ${1:ruby}}
+  $0
+{% endhighlight %}
+</string>
+	<key>name</key>
+	<string>Textile highlight</string>
+	<key>scope</key>
+	<string>text.html.textile</string>
+	<key>tabTrigger</key>
+	<string>hi</string>
+	<key>uuid</key>
+	<string>8A4FE595-4926-4B10-9786-010E79F0A672</string>
+</dict>
+</plist>

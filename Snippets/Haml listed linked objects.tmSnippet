@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>%ul
+  - ${1:objects}.each do |${2:object}|
+    %li= link_to ${2}.${0:name}, ${2}
+</string>
+	<key>name</key>
+	<string>Haml listed linked objects</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>llo</string>
+	<key>uuid</key>
+	<string>F30E5D9A-FE65-4478-B53B-E4198016B41E</string>
+</dict>
+</plist>
