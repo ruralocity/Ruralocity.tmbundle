@@ -1,3 +1,22 @@
+This is a small set of TextMate shortcuts I've begun collecting in one place.
+
+Haml
+ul of items from array          lo
+ul of linked items from array   llo
+
+Devise/CanCan
+before_filters for authentication/authorization   auth
+
+Factory Girl
+Factory(:name)                  fg
+Factory.build(:name)            fb
+Factory.attributes_for(:name)   fa
+
+Jekyll/Textile
+Post info yaml      info
+Textile link        url
+Highlight block     hi
+
 INSTALLATION:
 
 cd ~/"Library/Application Support/TextMate/Bundles/"
