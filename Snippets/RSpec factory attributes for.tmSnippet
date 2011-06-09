@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.attributes_for(:$0) </string>
+	<string>Factory.attributes_for(:$0)</string>
 	<key>name</key>
 	<string>Factory Girl factory attributes for</string>
 	<key>scope</key>
