@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory(:$0)</string>
+	<string>describe '${1:description}' do
+  ${0}
+end
+</string>
 	<key>name</key>
-	<string>Factory Girl factory</string>
+	<string>RSpec describe</string>
 	<key>scope</key>
-	<string>source.ruby.rails,source.ruby.rspec</string>
+	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>fg</string>
+	<string>desc</string>
 	<key>uuid</key>
-	<string>87AAC746-FF40-4CEC-A188-79B7641EF521</string>
+	<string>914605B8-99F6-4160-9A36-4FA17B4B1E4F</string>
 </dict>
 </plist>
