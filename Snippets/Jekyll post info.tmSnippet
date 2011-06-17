@@ -6,7 +6,8 @@
 	<string>---
 layout: ${1:post}
 title: "${2:title}"
-excerpt: "${0:excerpt}"
+excerpt: "${3:excerpt}"
+tags: [ "${4:tag}", "${0:tag}" ]
 ---
 
 
